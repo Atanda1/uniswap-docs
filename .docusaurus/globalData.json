@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "contracts/index",
+              "path": "/contracts/",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/PoolManager",
+              "path": "/contracts/PoolManager",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/PositionDescriptor",
+              "path": "/contracts/PositionDescriptor",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/PositionManager",
+              "path": "/contracts/PositionManager",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/Quoter",
+              "path": "/contracts/Quoter",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/StateView",
+              "path": "/contracts/StateView",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/UniversalRouter",
+              "path": "/contracts/UniversalRouter",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "deploymentAddresses",
+              "path": "/deploymentAddresses",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "contractSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "contractSidebar": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

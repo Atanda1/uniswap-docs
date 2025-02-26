@@ -1,0 +1,94 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/-5bd": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-57a": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-2b0": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/contracts/-4a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-315-c68"
+  },
+  "/contracts/PoolManager-6dc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-pool-manager-7-d-8-b23"
+  },
+  "/contracts/PositionDescriptor-2b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-position-descriptor-1-e-3-501"
+  },
+  "/contracts/PositionManager-af8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-position-manager-672-e0e"
+  },
+  "/contracts/Quoter-f56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-quoter-925-cbb"
+  },
+  "/contracts/StateView-133": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-state-view-7-d-6-403"
+  },
+  "/contracts/UniversalRouter-33c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-universal-routerf-99-712"
+  },
+  "/deploymentAddresses-872": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---deployment-addressesd-54-189"
+  },
+  "/-1d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
+  }
+}

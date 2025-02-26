@@ -1,0 +1,24 @@
+{
+  "id": "contracts/StateView",
+  "title": "StateView",
+  "description": "",
+  "source": "@site/docs/contracts/StateView.md",
+  "sourceDirName": "contracts",
+  "slug": "/contracts/StateView",
+  "permalink": "/contracts/StateView",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/StateView.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "contractSidebar",
+  "previous": {
+    "title": "Quoter",
+    "permalink": "/contracts/Quoter"
+  },
+  "next": {
+    "title": "UniversalRouter",
+    "permalink": "/contracts/UniversalRouter"
+  }
+}

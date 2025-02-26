@@ -1,0 +1,24 @@
+{
+  "id": "contracts/PositionManager",
+  "title": "PositionManager",
+  "description": "",
+  "source": "@site/docs/contracts/PositionManager.md",
+  "sourceDirName": "contracts",
+  "slug": "/contracts/PositionManager",
+  "permalink": "/contracts/PositionManager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/PositionManager.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "contractSidebar",
+  "previous": {
+    "title": "PositionDescriptor",
+    "permalink": "/contracts/PositionDescriptor"
+  },
+  "next": {
+    "title": "Quoter",
+    "permalink": "/contracts/Quoter"
+  }
+}

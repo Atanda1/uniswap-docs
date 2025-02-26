@@ -1,0 +1,24 @@
+{
+  "id": "index",
+  "title": "Uniswap v4",
+  "description": "Uniswap v4 inherits all of the capital efficiency gains of Uniswap v3, but provides flexibility via hooks and gas optimizations across the entire lifecycle.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "contractSidebar",
+  "next": {
+    "title": "Contracts",
+    "permalink": "/contracts/"
+  }
+}

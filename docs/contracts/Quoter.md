@@ -1,0 +1,10 @@
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0xdc4c90d3" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0xeebe0c6a" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0x595323f5" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0xaa9d21cb" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0x58733073" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0x6a36a38c" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0xaa2f1501" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0xca253dc9" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0x147d2af9" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0xbc21f" functionKey="0xbc21f.function.0x91dd7346" />

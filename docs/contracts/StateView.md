@@ -1,0 +1,12 @@
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0xdc4c90d3" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0xdacf1d2f" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0x97fd7b42" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0xf0928f29" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0x1c7ccb4c" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0x8a2bb9e6" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0x7c40f1fe" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0xcaedab54" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0x53e9c1fb" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0x9ec538c8" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0xfa6793d5" />
+<BonadocsWidget widgetConfigUri="ipfs://QmRA9TTnMxeyUNkL5pm3KDwm7216xvuGACaC7imGiAEzAC" contract="0x48d76" functionKey="0x48d76.function.0xc815641c" />

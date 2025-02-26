@@ -1,0 +1,27 @@
+{
+  "id": "contracts/index",
+  "title": "Contracts",
+  "description": "Uniswap v4's",
+  "source": "@site/docs/contracts/index.md",
+  "sourceDirName": "contracts",
+  "slug": "/contracts/",
+  "permalink": "/contracts/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "contractSidebar",
+  "previous": {
+    "title": "Uniswap v4",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "PoolManager",
+    "permalink": "/contracts/PoolManager"
+  }
+}

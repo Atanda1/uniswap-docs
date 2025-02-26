@@ -1,0 +1,24 @@
+{
+  "id": "contracts/PositionDescriptor",
+  "title": "PositionDescriptor",
+  "description": "",
+  "source": "@site/docs/contracts/PositionDescriptor.md",
+  "sourceDirName": "contracts",
+  "slug": "/contracts/PositionDescriptor",
+  "permalink": "/contracts/PositionDescriptor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/PositionDescriptor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "contractSidebar",
+  "previous": {
+    "title": "PoolManager",
+    "permalink": "/contracts/PoolManager"
+  },
+  "next": {
+    "title": "PositionManager",
+    "permalink": "/contracts/PositionManager"
+  }
+}

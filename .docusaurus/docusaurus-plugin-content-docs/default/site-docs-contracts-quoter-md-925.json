@@ -1,0 +1,24 @@
+{
+  "id": "contracts/Quoter",
+  "title": "Quoter",
+  "description": "",
+  "source": "@site/docs/contracts/Quoter.md",
+  "sourceDirName": "contracts",
+  "slug": "/contracts/Quoter",
+  "permalink": "/contracts/Quoter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/Quoter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "contractSidebar",
+  "previous": {
+    "title": "PositionManager",
+    "permalink": "/contracts/PositionManager"
+  },
+  "next": {
+    "title": "StateView",
+    "permalink": "/contracts/StateView"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "contracts/PoolManager",
+  "title": "PoolManager",
+  "description": "",
+  "source": "@site/docs/contracts/PoolManager.md",
+  "sourceDirName": "contracts",
+  "slug": "/contracts/PoolManager",
+  "permalink": "/contracts/PoolManager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/PoolManager.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "contractSidebar",
+  "previous": {
+    "title": "Contracts",
+    "permalink": "/contracts/"
+  },
+  "next": {
+    "title": "PositionDescriptor",
+    "permalink": "/contracts/PositionDescriptor"
+  }
+}

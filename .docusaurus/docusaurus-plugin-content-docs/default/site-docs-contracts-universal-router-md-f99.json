@@ -1,0 +1,24 @@
+{
+  "id": "contracts/UniversalRouter",
+  "title": "UniversalRouter",
+  "description": "",
+  "source": "@site/docs/contracts/UniversalRouter.md",
+  "sourceDirName": "contracts",
+  "slug": "/contracts/UniversalRouter",
+  "permalink": "/contracts/UniversalRouter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/UniversalRouter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "contractSidebar",
+  "previous": {
+    "title": "StateView",
+    "permalink": "/contracts/StateView"
+  },
+  "next": {
+    "title": "Deployment Addresses",
+    "permalink": "/deploymentAddresses"
+  }
+}
